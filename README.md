@@ -1,5 +1,7 @@
 # stego-semantic-segmentation-kaggle
 CS4240 Deep Learning group assignment, train and evaluate unsupervised semantic segmentation STEGO (ICLR 2022 Paper) on PASCAL VOC 2012 dataset on Kaggle
+
+repo for STEGO: https://github.com/mhamilton723/STEGO
 ## Steps
 1. Upload this notebook to Kaggle
 2. In Session Options -> Accelerator, select GPU T4 x 2
